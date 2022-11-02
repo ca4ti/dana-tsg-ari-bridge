@@ -1,4 +1,4 @@
-# Dana TSG ARI Bridge
+# Dana TSG ARI Bridge https://dan-jenkins.co.uk/screensharing-with-asterisks-sfu/
 
 This application creates a bare bones ARI Confbridge with SFU capabilities. It literally takes calls into an extension and bridges them together using the SFU capabilites inside of Asterisk. The added bit is the ability to snoop on every single participant in a bridge and send their audio to Google's Speech To Text service using Asterisk's new External Media capability from 16.6 onwards
 
